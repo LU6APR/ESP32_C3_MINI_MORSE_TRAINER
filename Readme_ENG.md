@@ -1,4 +1,4 @@
-1. PROJECT DESCRIPTION
+# PROJECT DESCRIPTION
 This project consists of building an electronic Iambic Keyer with an integrated Morse code decoder, based on the ESP32‑C3 Super Mini microcontroller.
 
 The device allows you to:
