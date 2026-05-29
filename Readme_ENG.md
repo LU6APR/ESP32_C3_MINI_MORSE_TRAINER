@@ -26,3 +26,5 @@ Manual clear with a short button press
 
 Copy the code into Arduino IDE, select the correct port and board (ESP32‑C3 Mini).
 In my case, I used the LOLIN C3 MINI. Compile and Upload.
+
+Note: The project can be built without the display, and it will still work as an oscillator for iambic keys.
