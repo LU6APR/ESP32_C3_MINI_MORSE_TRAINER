@@ -25,4 +25,4 @@ Manual clear with a short button press
 <img width="1971" height="1354" alt="circuit_image" src="https://github.com/user-attachments/assets/04f94726-7019-4d6b-8713-7bc5f921db1e" />
 
 Copy the code into Arduino IDE, select the correct port and board (ESP32‑C3 Mini).
-In my case, I used the LOLIN C3 MINI.
+In my case, I used the LOLIN C3 MINI. Compile and Upload.
