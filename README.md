@@ -17,4 +17,4 @@ El dispositivo permite:
 
 <img width="1971" height="1354" alt="circuit_image" src="https://github.com/user-attachments/assets/04f94726-7019-4d6b-8713-7bc5f921db1e" />
 
-Copiar codigo en arduino ide, seleccionar puerto y ESP32 C3 mini, en mi caso use el LOLIN C3 MINI.
+Copiar codigo en arduino ide, seleccionar puerto y ESP32 C3 mini, en mi caso use el LOLIN C3 MINI, compilar y subir al esp32 c3 mini.
