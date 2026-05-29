@@ -1,4 +1,9 @@
-# PROJECT DESCRIPTION
+# ESP32_C3_MINI_MORSE_TRAINER
+ESP32 C3 MINI MORSE TRAINER / OSCILATOR FOR IAMBIC KEYS
+
+Keyer Iámbico + Decodificador CW con ESP32-C3 Mini Autor: LU6APR Pablo Ramos.
+
+PROJECT DESCRIPTION
 This project consists of building an electronic Iambic Keyer with an integrated Morse code decoder, based on the ESP32‑C3 Super Mini microcontroller.
 
 The device allows you to:
