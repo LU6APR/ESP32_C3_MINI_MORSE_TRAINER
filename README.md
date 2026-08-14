@@ -27,3 +27,5 @@ LU5DZY, comparte circuito con opto acoplador al tx, por recomendacion en grupo d
 abajo el circuito.
 
 <img width="1971" height="1354" alt="circuit_image" src="nico_opto.png" />
+
+Video: [LU5DZY_Opto.mp4](LU5DZY_Opto.mp4)
