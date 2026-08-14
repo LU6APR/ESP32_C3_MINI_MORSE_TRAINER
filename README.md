@@ -24,7 +24,7 @@ Nota: el proyecto puede armarse sin la pantalla, y aun funcionara como oscilador
 14/8/2026
 
 LU5DZY, comparte circuito con opto acoplador al tx, por recomendacion en grupo de CW de colegas/amigos.
-abajo el circuito.
+abajo el circuito. Grcs Nico!
 
 <img width="1971" height="1354" alt="circuit_image" src="nico_opto.png" />
 
