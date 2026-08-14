@@ -20,3 +20,10 @@ El dispositivo permite:
 Copiar codigo en arduino ide, seleccionar puerto y ESP32 C3 mini, en mi caso use el LOLIN C3 MINI, compilar y subir al esp32 c3 mini.
 
 Nota: el proyecto puede armarse sin la pantalla, y aun funcionara como oscilador para keys iambicos...
+
+14/8/2026
+
+LU5DZY, comparte circuito con opto acoplador al tx, por recomendacion en grupo de CW de colegas/amigos.
+abajo el circuito.
+
+<img width="1971" height="1354" alt="circuit_image" src="https://github.com/user-attachments/assets/nico_opto.png" />
