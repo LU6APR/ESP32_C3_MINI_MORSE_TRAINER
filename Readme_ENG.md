@@ -23,7 +23,7 @@ Note: the project can be assembled without the display, and it will still work a
 
 14/8/2026
 
-LU5DZY shared a circuit with an optocoupler to the TX, following a recommendation in a CW group of colleagues/friends.
+<strong>LU5DZY</strong> shared a circuit with an optocoupler to the TX, following a recommendation in a CW group of colleagues/friends.
 The circuit is below. Thanks Nico!
 
 <img width="1971" height="1354" alt="circuit_image" src="nico_opto.png" />
@@ -32,6 +32,7 @@ Video: [LU5DZY_Opto.mp4](LU5DZY_Opto.mp4)
 
 29/9/2026
 
-PY3DU, “Improved speed selection: now you can adjust it either by pressing the button or using the paddles (dits and dahs) to increase or decrease the speed. Thanks, Luiz! PY3DU.
+<strong>PY3DU</strong>, “Improved speed selection: now you can adjust it either by pressing the button or using the paddles (dits and dahs) to increase or decrease the speed. Thanks, Luiz! PY3DU.
+Available in  releases...
 
 Video: [PY3DU_SPEED_CHANGE.mp4](PY3DU_spd_chng.mp4)
