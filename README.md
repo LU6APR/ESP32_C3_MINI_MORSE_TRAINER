@@ -33,6 +33,6 @@ Video: [LU5DZY_Opto.mp4](LU5DZY_Opto.mp4)
 29/9/2026
 
 <strong>PY3DU</strong>, comparte mejora en la seleccion de velocidad tocando boton y paddles para subir o bajar velocidad.
-Puedes bajarlo en la seccion de releases...
+Disponible en la seccion de releases...
 
 Video: [PY3DU_SPEED_CHANGE.mp4](PY3DU_spd_chng.mp4)
