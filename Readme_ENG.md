@@ -32,7 +32,7 @@ Video: [LU5DZY_Opto.mp4](LU5DZY_Opto.mp4)
 
 29/9/2026
 
-<strong>PY3DU</strong>, “Improved speed selection: now you can adjust it either by pressing the button or using the paddles (dits and dahs) to increase or decrease the speed. Thanks, Luiz! PY3DU.
+<strong>PY3DU</strong>, Improved speed selection: now you can adjust it either by pressing the button or using the paddles (dits and dahs) to increase or decrease the speed. Thanks, Luiz! PY3DU.
 Available in  releases...
 
 Video: [PY3DU_SPEED_CHANGE.mp4](PY3DU_spd_chng.mp4)
