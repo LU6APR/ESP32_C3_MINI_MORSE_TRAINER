@@ -29,3 +29,9 @@ abajo el circuito. Grcs Nico!
 <img width="1971" height="1354" alt="circuit_image" src="nico_opto.png" />
 
 Video: [LU5DZY_Opto.mp4](LU5DZY_Opto.mp4)
+
+29/9/2026
+
+PY3DU, comparte mejora en la seleccion de velocidad tocando boton y paddles para subir o bajar velocidad/
+
+Video: [PY3DU_SPEED_CHANGE.mp4](PY3DU_spd_chng.mp4)
