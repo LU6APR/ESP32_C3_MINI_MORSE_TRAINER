@@ -36,3 +36,9 @@ Video: [LU5DZY_Opto.mp4](LU5DZY_Opto.mp4)
 Disponible en la seccion de releases...
 
 Video: [PY3DU_SPEED_CHANGE.mp4](PY3DU_spd_chng.mp4)
+
+29/9/2026
+
+<strong>LU6APR</strong>, Se convierte libreria de video con la mejora en la seleccion de velocidad tocando boton y paddles para subir o bajar velocidad propuesta por PY3DU.
+Disponible en la seccion de releases...
+
