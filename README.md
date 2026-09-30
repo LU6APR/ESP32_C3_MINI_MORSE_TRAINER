@@ -39,6 +39,6 @@ Video: [PY3DU_SPEED_CHANGE.mp4](PY3DU_spd_chng.mp4)
 
 30/9/2026
 
-<strong>LU6APR</strong>, Se convierte libreria de video con la mejora en la seleccion de velocidad tocando boton y paddles para subir o bajar velocidad propuesta por PY3DU.
+<strong>LU6APR</strong>, Se convierte libreria de video a U8g2lib.h con la mejora en la seleccion de velocidad tocando boton y paddles para subir o bajar velocidad propuesta por PY3DU.
 Disponible en la seccion de releases...
 
