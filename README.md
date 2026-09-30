@@ -46,6 +46,6 @@ Disponible en la seccion de releases...
 
 <strong>PY3DU</strong>, comparte nueva mejora: escucha y repite y en la seleccion de velocidad tocando boton y paddles para subir o bajar velocidad.
 Disponible en la seccion de releases...
-
+ 
 Video: [PY3DU_game_listening.mp4](PY3DU_game_listening.mp4)
 
