@@ -49,3 +49,8 @@ Disponible en la seccion de releases...
  
 Video: [PY3DU_game_listening.mp4](PY3DU_game_listening.mp4)
 
+1/10/2026
+
+<strong>PY3DU</strong>, comparte cambio de  salida de buzzer por  un parlante de 32 ohms.
+
+
