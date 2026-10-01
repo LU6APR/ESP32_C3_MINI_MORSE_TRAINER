@@ -40,3 +40,7 @@ Video: [PY3DU_SPEED_CHANGE.mp4](PY3DU_spd_chng.mp4)
 30/9/2026
 
 <strong>LU6APR</strong> The video library has been updated to U8g2lib.h  with the improvement in speed selection, allowing adjustment by pressing the button or using the paddles to increase or decrease the speed, as proposed by PY3DU. Available in the releases section...
+
+01/10/2026
+
+<strong>PY3DU</strong>, share an output with 32 ohms speaker replacing the buzzer.
